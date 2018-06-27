@@ -4,11 +4,11 @@
 	<!-- artifactId correspond au nom de votre application, n'hésitez pas à 
 		changer la valeur par défaut -->
 	<artifactId>fileattente</artifactId>
-	<version>1-SNAPSHOT</version>
+	<version>1</version>
 	<packaging>war</packaging>
 	<scm>
 		<developerConnection>scm:git:https://github.com/Pierrecmt/tpic</developerConnection>
-	  <tag>fileattente</tag>
+	  <tag>fileattente-1</tag>
   </scm>
 	<!-- précisez le nom et l'email de chaque membre de votre groupe -->
 	<developers>
